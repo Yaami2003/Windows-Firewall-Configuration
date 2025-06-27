@@ -18,7 +18,7 @@ Configure and test firewall rules by blocking Telnet traffic (Port 23), then res
 4. Deleted the rule to restore original settings.
 
 ## 🖼️ Screenshots
--![image alt](https://github.com/Yaami2003/Windows-Firewall-Configuration/blob/54133d5d93cbbad83e1c41d5bf58ea00afabd45d/block_telnet_rule_added.png)
+-block telnet rule added![image alt](https://github.com/Yaami2003/Windows-Firewall-Configuration/blob/54133d5d93cbbad83e1c41d5bf58ea00afabd45d/block_telnet_rule_added.png)
 
 ## 🔒 Key Concepts Learned
 - Basic use of Windows Firewall
